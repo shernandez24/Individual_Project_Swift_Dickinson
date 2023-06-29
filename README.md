@@ -1,4 +1,4 @@
-![Header](./[Swift_Dickinson.png])
+![Emily Dickinson and Taylor Swift](Swift_Dickinson.png)
 
 # Lyrical Analysis and Comparison of Taylor Swift's _folklore_ and _evermore_ to poet Emily Dickinson
 
