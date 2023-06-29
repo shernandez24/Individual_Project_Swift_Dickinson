@@ -15,7 +15,6 @@ Throughout this research process, I expected to find overlapping similarities in
 
 Amongst the three texts, the selected trio of texts had the running theme of time and memory interwoven amidst them. In Swift's two albums, the top 5 most frequent words were "never," "time," "knew," "would," "gave," and "could," "never," "youre," "think," and "love," respectively. Their respective word clouds also reveal similarities in tone and topics, which fall under the theme of time and reflection. Despite encountering errors with Dickinson's word cloud, taking a look at the POS tagging step, the top words there also align with the themes of time and reflection:
 
-Screenshot top 11 most frequent words in 'Poems by Emily Dickinson, Three Series, Complete
 Swift's relation to time in both albums is accompanied by words associated with nostalgia and memories of what was lost and what could have been, similarly, Dickinson does as well ("would", "could", and "never" frequently populate her prose).
 
 It is interesting to note that both prose writers composed these selected texts in isolation from others. Swift's albums were composed in 2020, during the beginning of the COVID-19 pandemic and quarantine, whereas Dickinson, who was alleged to experience social anxiety, chose to be secluded away from others. It is safe to say that under these conditions, both artists had much time to reflect on the concept of time.
